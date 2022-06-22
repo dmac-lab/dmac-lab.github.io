@@ -86,9 +86,9 @@ author:
   location         : "Winston-Salem, NC, USA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/collections/mybibliography/"
-  googlescholar    : "https://scholar.google.com/?inst=10441630620217902552"
+  googlescholar    : "https://scholar.google.com/citations?user=5oigaVwAAAAJ&hl=en&inst=10441630620217902552"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Da-Ma-10"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-3542-7798"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
