@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Da Ma's Homepage'"
+title: "Da Ma Ph.D."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Da Ma Ph.D.
+# About Me
 
 I am an Assistant Professor at Wake Forest University School of Medicine (WFUSoM). 
 Before joining WFUSoM, I was a Postdocctoral fellow at Simon Fraser University. 
